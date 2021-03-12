@@ -1,0 +1,55 @@
+#:C19    
+#Xilinx FPGA Editor Command Log File
+#Editor Version:
+#:V   NT M2.1 P.20131013
+#Current Working Directory:
+#:D   C:\Users\Luca\Documents\Personal Work\UNI\2020.21\HDL\Projects\PS2
+#Date/Time:
+#:T   Thu Jan 07 17:43:39 2021
+#------------------------------
+	#Reading PS2.ncd...
+	#Loading device for application Rf_Device from file '3s100e.nph' in environment D:\Software\Xilinx\14.7\ISE_DS\ISE\.
+	#   "PS2" is an NCD, version 3.2, device xc3s100e, package cp132, speed -4
+	#Design creation date: 2021.01.07.16.40.07
+	#Building chip graphics...
+	#Loading speed info...
+	#1
+setattr main edit-mode no-logic-changes
+	#2
+select -k net 'Data<2>'
+	#3
+unselect net 'Data<2>'
+	#4
+select -k net 'Data<3>'
+	#5
+unselect net 'Data<3>'
+	#6
+select -k net 'Data<4>'
+	#7
+unselect net 'Data<4>'
+	#8
+select -k net 'Data<5>'
+	#9
+unselect net 'Data<5>'
+	#10
+select -k net 'Data<6>'
+	#11
+unselect net 'Data<6>'
+	#12
+select -k net 'PS2D_IBUF'
+	#13
+unselect net 'PS2D_IBUF'
+	#14
+select -k net 'PS2C_BUFGP/IBUFG'
+	#15
+unselect net 'PS2C_BUFGP/IBUFG'
+	#16
+select -k net 'PS2C_BUFGP'
+	#17
+unselect net 'PS2C_BUFGP'
+	#18
+select -k net 'GLOBAL_LOGIC1'
+	#19
+unselect net 'GLOBAL_LOGIC1'
+	#20
+select -k net 'PS2C_BUFGP'

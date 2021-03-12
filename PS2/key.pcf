@@ -1,0 +1,18 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Jan 07 17:23:10 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "PS2C" LOCATE = SITE "B1" LEVEL 1;
+COMP "PS2D" LOCATE = SITE "C3" LEVEL 1;
+COMP "LED<0>" LOCATE = SITE "M5" LEVEL 1;
+COMP "LED<1>" LOCATE = SITE "M11" LEVEL 1;
+COMP "LED<2>" LOCATE = SITE "P7" LEVEL 1;
+COMP "LED<3>" LOCATE = SITE "P6" LEVEL 1;
+COMP "LED<4>" LOCATE = SITE "N5" LEVEL 1;
+COMP "LED<5>" LOCATE = SITE "N4" LEVEL 1;
+COMP "LED<6>" LOCATE = SITE "P4" LEVEL 1;
+COMP "LED<7>" LOCATE = SITE "G1" LEVEL 1;
+NET "PS2C_BUFGP/IBUFG" BEL "PS2C_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

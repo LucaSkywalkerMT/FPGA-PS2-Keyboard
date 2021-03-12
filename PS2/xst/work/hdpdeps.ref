@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/Luca/Documents/Personal Work/UNI/2020.21/HDL/Projects/PS2/PS2.vhd" 2021/01/08.15:00:18 P.20131013
+EN work/PS2 1610114421 \
+      FL "C:/Users/Luca/Documents/Personal Work/UNI/2020.21/HDL/Projects/PS2/PS2.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/PS2/BEHAVIORAL 1610114422 \
+      FL "C:/Users/Luca/Documents/Personal Work/UNI/2020.21/HDL/Projects/PS2/PS2.vhd" \
+      EN work/PS2 1610114421

@@ -1,0 +1,43 @@
+Release 14.7 - par P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Thu Jan 07 17:23:15 2021
+
+32 signals are not completely routed.
+
+WARNING:ParHelpers:360 - Design is not completely routed.
+
+   GLOBAL_LOGIC1
+   PS2C_BUFGP
+   PS2C_BUFGP/IBUFG
+   PS2D_IBUF
+   ns<0>
+   ns<1>
+   ns<2>
+   ns<3>
+   ns<4>
+   ns<5>
+   ns<6>
+   ns<7>
+   ns<8>
+   ns<9>
+   ps<0>
+   ps<1>
+   ps<2>
+   ps<3>
+   ps<4>
+   ps<5>
+   ps<6>
+   ps<7>
+   ps<8>
+   ps<9>
+   store<1>
+   store<2>
+   store<3>
+   store<4>
+   store<5>
+   store<6>
+   store<7>
+   store<8>
+
+
